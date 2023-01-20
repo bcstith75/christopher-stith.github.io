@@ -3225,3 +3225,24 @@ input, select, textarea {
 			}
 
 	}
+
+/* DEVICONS */
+
+.devicons {
+	font-size: 5.0rem;
+}
+
+.devicons:hover{
+	color:orangered;
+}
+
+.devicons-entry {
+	justify-content: center;
+	text-align: center;
+}
+
+.devicons-text {
+	font-size: 1.0rem;
+	padding-top:5px;
+	font-weight: bold;
+}
