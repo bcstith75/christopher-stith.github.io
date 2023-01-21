@@ -2063,6 +2063,8 @@ input, select, textarea {
 
 		.image.thumb {
 			text-align: center;
+			height: 228px;
+			border: 1px solid #000;
 		}
 
 			.image.thumb:after {
